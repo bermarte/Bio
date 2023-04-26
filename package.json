@@ -1,0 +1,12 @@
+{
+  "name": "test-codespaces",
+  "version": "1.0.0",
+  "description": "codespaces test ",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Hello world\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
